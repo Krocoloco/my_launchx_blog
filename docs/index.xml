@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krocoloco.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La cultura en el desarrollo de software</title>
+      <link>https://krocoloco.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://krocoloco.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Aquí escribiré sobre la comunidad de la programación y sobre la cultura en general, perfil del programador y plataformas mas utilizadas
+🤠🚀</description>
+    </item>
+    
+    <item>
       <title>Título de tu blog post</title>
       <link>https://krocoloco.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
